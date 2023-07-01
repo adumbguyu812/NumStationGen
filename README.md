@@ -22,6 +22,8 @@ To decrypt messages made by this script:
 1. Take the number from the message, 7 for example
 2. divide it by the corresponding number from the key/pad, 4 for example
    -If it has a remainder (like 7/4) it translates to a "1", and if it's clean division (like 6/3) it translates to a "0"
+
    -Put in simpler terms, you take the modulus of the msg÷key and 0 = 0 and anything else is 1
 4. once you have a string of binary, you can put it into most ASCII-Binary converters to get the message in plain text
+
    -At some point I may make this a native thing in the program, just enter the message and key and it spits out the binary and text. probably make it read from a file if the user chooses to make it easier 
