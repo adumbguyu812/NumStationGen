@@ -2,7 +2,7 @@
 # I guess so I don't lose it again Note this is just a fun project for fun. I only am making this because I thought
 # it'd be cool to be able to make a message encoder for a number station project I can't imagine how it could be,
 # nor if it SHOULD be considering I'm terrible at this, but PLEASE do not use this for anything other than sending
-# cryptic and dumb messages between friends I don't take any responsibility if it somehow gets you in trouble
+# cryptic and dumb messages between friends I don't take any responsibility if it somehow gets you in trouble!
 
 import random
 import ConvertToMIDI
