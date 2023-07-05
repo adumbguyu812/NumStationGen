@@ -8,7 +8,7 @@ I more than likely won't do many or even any updates to this, but who knows.
 
 ## How to use this
 
-Before you can use this, you will need to install Python obviously, but also MIDIUtils. It's as simple as `pip install midiutils`
+Before you can use this, you will need to install Python obviously, but also MIDIUtils. It's as simple as `pip install midiutil`
 
 Once you do that, we can get started:
 
