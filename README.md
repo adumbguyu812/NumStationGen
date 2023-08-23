@@ -1,5 +1,7 @@
 # NumStationGen
 
+_I am aware that the write to text file stuff is currently broken, I'll fix it eventually. Life is kinda crazy at the moment, and I'll try to have a temp fix soon._
+
 This is a dumb little project I've done a few times, all bad. I have a mild obsession with number stations, and wanted to see if I could "make" one myself. Turns out it's pretty simple.
 This one I'm a bit more proud of though, as it actually works and can output straight to a MIDI file. Why would you want that you ask? Well to put in a DAW so I don't have to manually put the numbers into order!
 
